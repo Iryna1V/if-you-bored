@@ -1,0 +1,51 @@
+
+video {
+
+  object-fit: cover;
+
+  width: 100vw;
+
+  height: 100vh;
+
+  position: fixed;
+
+  top: 0;
+
+  left: 0;
+
+  z-index: -1;
+
+}
+.conteiner {
+  display: flex;
+  justify-content: center;
+}
+h2{
+  color:rgb(50, 2, 54);
+  font-size: 21px;
+  background-color: #fccaf5;
+  padding: 7px;
+  border-radius: 5px;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-size: 41px;
+  margin-top: 55px;
+  font-family: "Chewy", system-ui;
+  letter-spacing: 2px;
+  margin-bottom: 50px;
+  color:blanchedalmond
+} 
+
+button {
+  margin-top: 20px;
+  font-size: 17px;
+  padding: 10px;
+  background-color:rgb(230, 255, 1);
+  border: none;
+  font-family: "Chewy", system-ui;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-radius: 10%;
+}
